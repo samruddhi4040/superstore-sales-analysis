@@ -9,7 +9,7 @@ Analyzed retail sales data using SQL and Power BI to identify key business insig
 - Ensured data consistency for accurate reporting and visualization
 
 ## 🛠 Tools Used
-- SQL (MySQL)
+- SQL (MySQL Workbench)
 - Power BI
 
 ## 🔍 Key Insights
@@ -20,8 +20,7 @@ Analyzed retail sales data using SQL and Power BI to identify key business insig
 - A small number of products drive the majority of revenue.
 
 ## 📈 Dashboard
-(Insert dashboard screenshot here)
-
+![Dashboard Screenshot](dashboard.png)
 ## 📌 Conclusion
 This project highlights the importance of pricing strategy, discount control, and category-level performance analysis in improving business profitability.
 
