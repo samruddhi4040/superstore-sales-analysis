@@ -30,3 +30,6 @@ This project highlights the importance of pricing strategy, discount control, an
 - `dashboard.png` – Dashboard preview  
 - `superstore.csv` – Cleaned dataset
 - `Sample - Superstore.csv` - Messy, unclean dataset
+
+## 📂 Data Source
+Dataset sourced from Kaggle: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
