@@ -11,7 +11,7 @@ Analyzed retail sales data using SQL and Power BI to identify key business insig
 ## 🛠 Tools Used
 - SQL (MySQL Workbench)
 - Power BI
-
+- Excel
 ## 🔍 Key Insights
 - Despite generating high revenue (~26K), profit was nearly zero, indicating poor margin management.
 - Higher discounts (>30%) significantly reduce profitability.
